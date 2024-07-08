@@ -1,0 +1,35 @@
+h1{
+    background-color: white;
+    
+    color: aqua;
+    text-align: center;
+    text-decoration: red underline;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    letter-spacing: normal;
+   
+
+}
+.cont{
+    background-color: rgb(245, 245, 77);
+   
+}
+h2{
+    background-color: aqua;
+    color: red
+}
+
+
+.p{
+    background-color:white;
+    color:antiquewhite;
+    background-image:url("microsoft.jpg");
+    
+}
+.img{
+    text-align: center;
+  background-image: url("microsoft.jpg");
+ 
+
+}

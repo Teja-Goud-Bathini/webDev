@@ -1,0 +1,27 @@
+.green{
+    color:green;
+}
+.underline{
+    text-decoration: underline black wavy;
+}
+.yellow{
+    background-color: yellow;
+}
+.a{
+    color:red;
+}
+.an{
+    color:blue;
+}
+.div2{
+    border: 2px  solid black ;
+    background-color: pink;
+}
+.buttonstyle{
+    background-color: blue;
+    color: white;
+}
+.underline{
+    color: purple;
+    text-decoration: underline;
+}
